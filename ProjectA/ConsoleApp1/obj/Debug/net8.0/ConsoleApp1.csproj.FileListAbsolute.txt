@@ -1,0 +1,197 @@
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\!КАСТПРОГ\VScode\MyProjects\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Rita\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Rita\Desktop\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Rita\Desktop\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Rita\Desktop\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Rita\Desktop\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Rita\Desktop\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Rita\Desktop\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rita\Desktop\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Rita\Desktop\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Rita\Desktop\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rita\Desktop\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Rita\Desktop\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Rita\Desktop\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Rita\Desktop\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Rita\Desktop\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\Classes\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\Classes\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\Classes\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\Classes\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\Classes\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\Classes\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\Classes\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\Classes\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\Classes\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\Classes\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\Classes\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\Classes\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\Classes\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\Classes\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\ООП\Classes\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\ООП\Classes\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\ООП\Classes\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\ООП\Classes\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Classes\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Classes\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\ООП\Classes\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\ООП\Classes\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\ООП\Classes\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\ООП\Classes\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Classes\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\ООП\Classes\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Classes\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\ООП\Classes\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation2\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\ООП\Encapsulation2\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\ООП\Encapsulation2\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\ООП\Encapsulation2\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\ООП\Encapsulation2\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation2\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation2\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Encapsulation2\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\ООП\Encapsulation2\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\ООП\Encapsulation2\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\ООП\Encapsulation2\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation2\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Encapsulation2\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\ООП\Encapsulation2\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\ООП\Encapsulation\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\ООП\Encapsulation\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\ООП\Encapsulation\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Encapsulation\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\ООП\Encapsulation\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\ООП\Encapsulation\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\ООП\Encapsulation\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\ООП\Encapsulation\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Encapsulation\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\ООП\Encapsulation\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation_2\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\ООП\Encapsulation_2\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\ООП\Encapsulation_2\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\ООП\Encapsulation_2\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation_2\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Encapsulation_2\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\ООП\Encapsulation_2\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\ООП\Encapsulation_2\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\ООП\Encapsulation_2\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\ООП\Encapsulation_2\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation_2\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\ООП\Encapsulation_2\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Encapsulation_2\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\ООП\Encapsulation_2\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Construct_3\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\ООП\Construct_3\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Admin\Desktop\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Admin\Desktop\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Admin\Desktop\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Admin\Desktop\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Admin\Desktop\ООП\Construct_3\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Admin\Desktop\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Admin\Desktop\ООП\Construct_3\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Admin\Desktop\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Admin\Desktop\ООП\Construct_3\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ООП\Construct_3\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\ООП\StaticFields_4\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\ООП\StaticFields_4\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\ООП\StaticFields_4\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\ООП\StaticFields_4\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\StaticFields_4\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\StaticFields_4\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\ООП\StaticFields_4\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\ООП\StaticFields_4\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\ООП\StaticFields_4\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\ООП\StaticFields_4\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\StaticFields_4\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\ООП\StaticFields_4\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\StaticFields_4\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\ООП\StaticFields_4\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\ООП\StaticFields_4 - Copy\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\ООП\StaticFields_4 - Copy\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\ООП\StaticFields_4 - Copy\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\ООП\StaticFields_4 - Copy\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\StaticFields_4 - Copy\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\StaticFields_4 - Copy\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\ООП\StaticFields_4 - Copy\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\ООП\StaticFields_4 - Copy\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\ООП\StaticFields_4 - Copy\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\ООП\StaticFields_4 - Copy\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\StaticFields_4 - Copy\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\ООП\StaticFields_4 - Copy\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\StaticFields_4 - Copy\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\ООП\StaticFields_4 - Copy\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\ООП\UnitTesting_5\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\ООП\UnitTesting_5\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\ООП\UnitTesting_5\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\ООП\UnitTesting_5\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\UnitTesting_5\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\UnitTesting_5\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\ООП\UnitTesting_5\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\ООП\UnitTesting_5\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\ООП\UnitTesting_5\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\ООП\UnitTesting_5\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\UnitTesting_5\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\ООП\UnitTesting_5\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\UnitTesting_5\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\ООП\UnitTesting_5\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\c#proj\ООП\Project A\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#proj\ООП\Project A\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\c#proj\ООП\Project A\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\c#proj\ООП\Project A\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\c#proj\ООП\Project A\obj\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Project A\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\c#proj\ООП\Project A\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Project A\bin\Debug\net8.0\ConsoleApp1.exe
+E:\c#proj\ООП\Project A\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\c#proj\ООП\Project A\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\c#proj\ООП\Project A\bin\Debug\net8.0\ConsoleApp1.dll
+E:\c#proj\ООП\Project A\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\c#proj\ООП\Project A\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\c#proj\ООП\Project A\obj\Debug\net8.0\ref\ConsoleApp1.dll

@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2112B3-A063-47E0-B286-AB6EF7644963}|..\\FlowerShopTests\\FlowerShopTests.csproj|e:\\c#proj\\\u043E\u043E\u043F\\flowershoptests\\categorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2112B3-A063-47E0-B286-AB6EF7644963}|..\\FlowerShopTests\\FlowerShopTests.csproj|e:\\c#proj\\\u043E\u043E\u043F\\flowershoptests\\orderstatustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2112B3-A063-47E0-B286-AB6EF7644963}|..\\FlowerShopTests\\FlowerShopTests.csproj|e:\\c#proj\\\u043E\u043E\u043F\\flowershoptests\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2112B3-A063-47E0-B286-AB6EF7644963}|..\\FlowerShopTests\\FlowerShopTests.csproj|e:\\c#proj\\\u043E\u043E\u043F\\flowershoptests\\flowertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2112B3-A063-47E0-B286-AB6EF7644963}|..\\FlowerShopTests\\FlowerShopTests.csproj|e:\\c#proj\\\u043E\u043E\u043F\\flowershoptests\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2112B3-A063-47E0-B286-AB6EF7644963}|..\\FlowerShopTests\\FlowerShopDomain.Tests.csproj|e:\\c#proj\\\u043E\u043E\u043F\\flowershoptests\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|e:\\c#proj\\\u043E\u043E\u043F\\project a\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|solutionrelative:orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|e:\\c#proj\\\u043E\u043E\u043F\\project a\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|e:\\c#proj\\\u043E\u043E\u043F\\project a\\inamedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|solutionrelative:inamedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|e:\\c#proj\\\u043E\u043E\u043F\\project a\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|solutionrelative:flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|e:\\c#proj\\\u043E\u043E\u043F\\project a\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|e:\\c#proj\\\u043E\u043E\u043F\\project a\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|e:\\c#proj\\\u043E\u043E\u043F\\project a\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|solutionrelative:baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2112B3-A063-47E0-B286-AB6EF7644963}|..\\FlowerShopTests\\FlowerShopDomain.Tests.csproj|e:\\c#proj\\\u043E\u043E\u043F\\flowershoptests\\flowershopdomain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|e:\\c#proj\\\u043E\u043E\u043F\\project a\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE33A4-E2CD-4C0E-BC74-669871C457FE}|ConsoleApp1.csproj|solutionrelative:project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerTests.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\CustomerTests.cs",
+              "RelativeDocumentMoniker": "..\\FlowerShopTests\\CustomerTests.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\CustomerTests.cs",
+              "RelativeToolTip": "..\\FlowerShopTests\\CustomerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:32:31.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlowerTests.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\FlowerTests.cs",
+              "RelativeDocumentMoniker": "..\\FlowerShopTests\\FlowerTests.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\FlowerTests.cs",
+              "RelativeToolTip": "..\\FlowerShopTests\\FlowerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:25:44.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryTests.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\CategoryTests.cs",
+              "RelativeDocumentMoniker": "..\\FlowerShopTests\\CategoryTests.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\CategoryTests.cs",
+              "RelativeToolTip": "..\\FlowerShopTests\\CategoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:31:50.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStatusTests.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\OrderStatusTests.cs",
+              "RelativeDocumentMoniker": "..\\FlowerShopTests\\OrderStatusTests.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\OrderStatusTests.cs",
+              "RelativeToolTip": "..\\FlowerShopTests\\OrderStatusTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:33:39.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderTests.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\OrderTests.cs",
+              "RelativeDocumentMoniker": "..\\FlowerShopTests\\OrderTests.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\OrderTests.cs",
+              "RelativeToolTip": "..\\FlowerShopTests\\OrderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:33:04.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\FlowerShopTests\\BaseEntity.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\BaseEntity.cs",
+              "RelativeToolTip": "..\\FlowerShopTests\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:14:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:59:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INamedEntity.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\INamedEntity.cs",
+              "RelativeDocumentMoniker": "INamedEntity.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\INamedEntity.cs",
+              "RelativeToolTip": "INamedEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:00:18.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Flower.cs",
+              "RelativeDocumentMoniker": "Flower.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Flower.cs",
+              "RelativeToolTip": "Flower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:18:16.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:59:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrderStatus.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\OrderStatus.cs",
+              "RelativeToolTip": "OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:59:18.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:58:42.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BaseEntity.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\BaseEntity.cs",
+              "RelativeToolTip": "BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T16:58:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlowerShopDomain.Tests.csproj",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\FlowerShopDomain.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\FlowerShopTests\\FlowerShopDomain.Tests.csproj",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\FlowerShopTests\\FlowerShopDomain.Tests.csproj",
+              "RelativeToolTip": "..\\FlowerShopTests\\FlowerShopDomain.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T18:05:15.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Project.cs",
+              "RelativeDocumentMoniker": "Project.cs",
+              "ToolTip": "E:\\c#proj\\\u041E\u041E\u041F\\Project A\\Project.cs",
+              "RelativeToolTip": "Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:02:56.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
