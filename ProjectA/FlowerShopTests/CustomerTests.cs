@@ -18,7 +18,12 @@ namespace FlowerShopDomain.Tests
             var order = customer.CreateOrder(flower);
 
             // Assert
-            Assert.Fail("Method not implemented.");
+            Assert.IsNotNull(order);
+            Assert.AreEqual(customer, order.Customer);
+            Assert.AreEqual(flower, order.Flower);
+            Assert.AreEqual(OrderStatus.Pending, order.Status);
+            Assert.IsTrue(customer.Orders.Contains(order));
+            Assert.IsTrue(flower.Orders.Contains(order));
         }
 
         [TestMethod]
@@ -26,14 +31,16 @@ namespace FlowerShopDomain.Tests
         {
             // Arrange
             var customer = new Customer();
-            var order = new Order();
+            var order = new Order { Customer = customer };
             customer.Orders.Add(order);
 
             // Act
             var result = customer.CancelOrder(order);
 
             // Assert
-            Assert.Fail("Method not implemented.");
+            Assert.IsTrue(result);
+            Assert.IsFalse(customer.Orders.Contains(order));
+            Assert.AreEqual(OrderStatus.Canceled, order.Status);
         }
     }
 }

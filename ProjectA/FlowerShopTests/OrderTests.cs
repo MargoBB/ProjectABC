@@ -17,7 +17,7 @@ namespace FlowerShopDomain.Tests
             order.ApproveOrder();
 
             // Assert
-            Assert.Fail("Method not implemented.");
+            Assert.AreEqual(OrderStatus.Completed, order.Status);
         }
 
         [TestMethod]
@@ -30,7 +30,7 @@ namespace FlowerShopDomain.Tests
             order.CancelOrder();
 
             // Assert
-            Assert.Fail("Method not implemented.");
+            Assert.AreEqual(OrderStatus.Canceled, order.Status);
         }
     }
 }

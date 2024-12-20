@@ -18,7 +18,9 @@ namespace FlowerShopDomain.Tests
             category.AddFlower(flower);
 
             // Assert
-            Assert.Fail("Method not implemented.");
+            Assert.AreEqual(1, category.Flowers.Count);
+            Assert.AreEqual(flower, category.Flowers[0]);
+            Assert.AreEqual(category, flower.Category);
         }
 
         [TestMethod]
@@ -27,13 +29,15 @@ namespace FlowerShopDomain.Tests
             // Arrange
             var category = new Category();
             var flower = new Flower();
-            category.Flowers.Add(flower);
+            category.AddFlower(flower);
 
             // Act
             var result = category.RemoveFlower(flower);
 
             // Assert
-            Assert.Fail("Method not implemented.");
+            Assert.IsTrue(result);
+            Assert.AreEqual(0, category.Flowers.Count);
+            Assert.IsNull(flower.Category);
         }
     }
 }
