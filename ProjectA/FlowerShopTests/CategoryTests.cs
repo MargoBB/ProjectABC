@@ -39,5 +39,19 @@ namespace FlowerShopDomain.Tests
             Assert.AreEqual(0, category.Flowers.Count);
             Assert.IsNull(flower.Category);
         }
+
+        [TestMethod]
+        public void RemoveFlower_ShouldReturnFalseIfFlowerNotInList()
+        {
+            // Arrange
+            var category = new Category();
+            var flower = new Flower();
+
+            // Act
+            var result = category.RemoveFlower(flower);
+
+            // Assert
+            Assert.IsFalse(result);
+        }
     }
 }

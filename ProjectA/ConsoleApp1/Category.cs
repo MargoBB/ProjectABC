@@ -1,19 +1,27 @@
-﻿namespace FlowerShopDomain
+﻿using FlowerShopDomain;
+
+public class Category : BaseEntity
 {
-    public class Category : BaseEntity
+    public string Name { get; set; }
+    public string Description { get; set; }
+    public List<Flower> Flowers { get; set; } = new List<Flower>();
+
+    public void AddFlower(Flower flower)
     {
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public List<Flower> Flowers { get; set; } = new List<Flower>();
-
-        public void AddFlower(Flower flower)
+        if (flower != null && !Flowers.Contains(flower))
         {
-            throw new NotImplementedException();
+            Flowers.Add(flower);
+            flower.Category = this;
         }
+    }
 
-        public bool RemoveFlower(Flower flower)
+    public bool RemoveFlower(Flower flower)
+    {
+        if (Flowers.Contains(flower))
         {
-            throw new NotImplementedException();
+            flower.Category = null;
+            return Flowers.Remove(flower);
         }
+        return false;
     }
 }

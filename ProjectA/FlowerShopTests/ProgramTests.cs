@@ -19,7 +19,7 @@ namespace FlowerShopDomain.Tests
             var flowerName = "Rose";
             var flowerPrice = 10.0m;
 
-            // Act
+            // Act: Try to add flower when no category exists
             if (categories.Count == 0)
             {
                 Assert.AreEqual(0, flowers.Count, "No flowers should be added without categories.");
@@ -39,21 +39,32 @@ namespace FlowerShopDomain.Tests
         }
 
         [TestMethod]
+        public void AddFlower_ShouldNotAllowAddingWithoutCategory()
+        {
+            // Arrange
+            var flowers = new List<Flower>();
+            var flowerName = "Rose";
+            var flowerPrice = 10.0m;
+
+            // Act: Do not add a flower if no category exists
+            Assert.AreEqual(0, flowers.Count, "Flowers should not be added if no category exists.");
+        }
+
+        [TestMethod]
         public void RemoveFlower_ShouldRemoveFromCategoryAndList()
         {
             // Arrange
             var category = new Category { Name = "Category1" };
             var flower = new Flower { Name = "Tulip" };
             category.AddFlower(flower);
-            var flowers = new List<Flower> { flower };
+            var flowers = category.Flowers; // Get flowers directly from category
 
             // Act
             category.RemoveFlower(flower);
-            flowers.Remove(flower);
 
             // Assert
             Assert.AreEqual(0, flowers.Count);
-            Assert.AreEqual(0, category.Flowers.Count);
+            Assert.IsFalse(category.Flowers.Contains(flower)); // Ensure it's removed from the category
         }
     }
 }

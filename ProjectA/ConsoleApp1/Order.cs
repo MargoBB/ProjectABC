@@ -1,20 +1,19 @@
-﻿namespace FlowerShopDomain
+﻿using FlowerShopDomain;
+
+public class Order : BaseEntity
 {
-    public class Order : BaseEntity
+    public Customer Customer { get; set; }
+    public Flower Flower { get; set; }
+    public DateTime OrderDate { get; set; }
+    public OrderStatus Status { get; set; }
+
+    public void ApproveOrder()
     {
-        public Customer Customer { get; set; }
-        public Flower Flower { get; set; }
-        public DateTime OrderDate { get; set; }
-        public OrderStatus Status { get; set; }
+        Status = OrderStatus.Completed;
+    }
 
-        public void ApproveOrder()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void CancelOrder()
-        {
-            throw new NotImplementedException();
-        }
+    public void CancelOrder()
+    {
+        Status = OrderStatus.Canceled;
     }
 }

@@ -31,5 +31,16 @@ namespace FlowerShopDomain.Tests
 
             // Assert is handled by ExpectedException
         }
+
+        [TestMethod]
+        public void Constructor_ShouldInitializeWithDefaultValues()
+        {
+            // Arrange & Act
+            var flower = new Flower();
+
+            // Assert
+            Assert.AreEqual(0, flower.Price);
+            Assert.IsNull(flower.Name);
+        }
     }
 }

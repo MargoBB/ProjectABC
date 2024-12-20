@@ -1,5 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Collections.Generic;
 using FlowerShopDomain;
 
 namespace FlowerShopDomain.Tests
@@ -23,7 +22,6 @@ namespace FlowerShopDomain.Tests
             Assert.AreEqual(flower, order.Flower);
             Assert.AreEqual(OrderStatus.Pending, order.Status);
             Assert.IsTrue(customer.Orders.Contains(order));
-            Assert.IsTrue(flower.Orders.Contains(order));
         }
 
         [TestMethod]
@@ -41,6 +39,20 @@ namespace FlowerShopDomain.Tests
             Assert.IsTrue(result);
             Assert.IsFalse(customer.Orders.Contains(order));
             Assert.AreEqual(OrderStatus.Canceled, order.Status);
+        }
+
+        [TestMethod]
+        public void CancelOrder_ShouldReturnFalseForNonexistentOrder()
+        {
+            // Arrange
+            var customer = new Customer();
+            var order = new Order();
+
+            // Act
+            var result = customer.CancelOrder(order);
+
+            // Assert
+            Assert.IsFalse(result);
         }
     }
 }

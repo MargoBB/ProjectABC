@@ -1,5 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using FlowerShopDomain;
 
 namespace FlowerShopDomain.Tests
@@ -31,6 +30,18 @@ namespace FlowerShopDomain.Tests
 
             // Assert
             Assert.AreEqual(OrderStatus.Canceled, order.Status);
+        }
+
+        [TestMethod]
+        public void Constructor_ShouldInitializeWithDefaultValues()
+        {
+            // Arrange & Act
+            var order = new Order();
+
+            // Assert
+            Assert.AreEqual(OrderStatus.Pending, order.Status);
+            Assert.IsNull(order.Customer);
+            Assert.IsNull(order.Flower);
         }
     }
 }
